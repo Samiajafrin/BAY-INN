@@ -1,0 +1,47 @@
+body {
+    background-color: white;
+    color: black;
+    /* font-family: Arial, Helvetica, sans-serif; */
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+
+h1 {
+    /* box-shadow: 20px 20px 50px 15px rgb(30, 9, 9); */
+    text-align: center;
+    /* box-shadow: 20px 20px 50px 15px rgb(10, 15, 55); */
+    /* box-shadow:7px 9px 20px 0px grey; */
+    box-shadow:0px 0px 20px 0px grey;
+    background-color: dodgerblue;
+}
+
+.review {
+    width: 40%;
+    /* border: 2px solid gray; */
+    border-radius: 10px;
+    padding: 20px;
+    margin: 40px auto;
+    /* box-shadow: 20px 20px 50px 15px grey; */
+    box-shadow:0px 0px 20px 0px grey;
+    
+    
+}
+
+.reviewer_name {
+    color: dodgerblue;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.review_text {
+    font-weight: bold;
+    text-align: justify;
+}
+#back{
+    
+    color: black;
+    
+    background-color:dodgerblue;
+    padding: 10px;
+    margin-top: 30px;
+}
